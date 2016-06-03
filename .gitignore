@@ -33,12 +33,8 @@ node_modules
 .node_repl_history
 
 # database
-<<<<<<< HEAD
 mongodb/
-=======
-mongobd/
->>>>>>> bddaf3916354eaa75e90dd5aa35ab67bf35adf33
-mongodb/data
+mongodb/data/
 
 bin/cert.csr
 bin/certificate.pem
